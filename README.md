@@ -62,5 +62,5 @@ The application will open in your web browser. Allow access to your webcam to st
 **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**For more such projects visit my Portfolio:- ** https://www.jaydugad.com/project
+**For more such projects visit my Portfolio:-** https://www.jaydugad.com/project
 
