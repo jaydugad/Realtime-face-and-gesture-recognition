@@ -37,16 +37,16 @@ To run this project, you need to install the following dependencies:
 
 **How to Run**
 
-**1.)Clone the repository:**
+**1.) Clone the repository:**
 bash
-git clone https://github.com/yourusername/realtime-face-gesture-recognition.git
+git clone
 cd realtime-face-gesture-recognition
 
-**2.)Install the dependencies:**
+**2.) Install the dependencies:**
 bash
 pip install -r requirements.txt
 
-**3.)Run the Streamlit app:**
+**3.) Run the Streamlit app:**
 bash
 streamlit run app.py
 
