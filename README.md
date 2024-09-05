@@ -49,5 +49,18 @@ pip install -r requirements.txt
 **3.) Run the Streamlit app:**
 bash
 streamlit run app.py
-
 The application will open in your web browser. Allow access to your webcam to start recognizing faces and gestures in real-time.
+
+**Future Enhancements**
+
+1.) Add more gesture types using MediaPipe
+2.) Implement face recognition for identifying known individuals
+3.) Improve gesture animation effects
+4.) Optimize performance for low-end devices
+
+
+**License**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**For more such projects visit my Portfolio:- ** https://www.jaydugad.com/project
+
