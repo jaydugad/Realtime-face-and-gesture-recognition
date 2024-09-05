@@ -34,13 +34,9 @@ To run this project, you need to install the following dependencies:
 - `threading`: For handling video streams in separate threads
 - `time`: For managing sleep intervals and cooldowns
 
-You can install the required packages by running:
-
-```bash
-pip install -r requirements.txt
-
 
 **How to Run**
+
 **1.)Clone the repository:**
 bash
 git clone https://github.com/yourusername/realtime-face-gesture-recognition.git
@@ -50,7 +46,7 @@ cd realtime-face-gesture-recognition
 bash
 pip install -r requirements.txt
 
-**Run the Streamlit app:**
+**3.)Run the Streamlit app:**
 bash
 streamlit run app.py
 
